@@ -1,3 +1,5 @@
+![Hasindu weerarathne (2)](https://github.com/hasinduW/hasinduW/assets/134626799/5ccb593e-cdb1-4512-b8c4-32409e460c7f)
+
 <h1 align="center">Hi🙋, I'm Hasindu Weerarathne</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
